@@ -2,6 +2,9 @@
 
 [![Try on playground](https://img.shields.io/badge/Playground-Node_Template-brightgreen?logo=Parity%20Substrate)](https://playground.substrate.dev/?deploy=node-template)
 
+## This repository was cloned as a part of a Polkadot Presentation for my shcool,
+ to show we can do it to play with the substrate-node-template, teacher is : Sofiane Akermoun. 
+
 A fresh FRAME-based [Substrate](https://www.substrate.io/) node, ready for hacking :rocket:
 
 ## Getting Started
